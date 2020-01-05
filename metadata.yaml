@@ -1,11 +1,16 @@
 _repo: The-Standard-Manual-for-Baptist-Churches_61084
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hiscox, Edward Thurston
     gutenberg_agent_id: '51248'
     url: http://www.gutenberg.org/2009/agents/51248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61084#The-Standard-Manual-for-Baptist-Churches
 gutenberg_issued: '2020-01-02'
 gutenberg_type: Text
 identifiers:
